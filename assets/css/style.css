@@ -20,11 +20,15 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+/* Removed extra selectors */
+
+.seo {
     color: #d9dcd6;
 }
 
-.header div {
+/* Changed .header div to .header nav to reflect change in html */
+
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
