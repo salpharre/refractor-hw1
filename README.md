@@ -12,7 +12,7 @@ Webpage optimized for accessability, refracted using VS Code.
 
 ### General Info
 
-Project webpage was given to practice code refraction, and clean up code.
+Project webpage was used to practice code refraction, and clean up code.
 
 Using a pre-formed html, elements were changed to follow a more 
 
@@ -24,6 +24,9 @@ to decrease the size of the file.
 
 #### Technologies
 
+* Visual Studio Code 1.43.2
 
 ##### Sources
+
+Pre-formed webpage came from UC Davis Bootcamp.
 
