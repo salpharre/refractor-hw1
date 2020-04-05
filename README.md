@@ -1,2 +1,19 @@
-# refractor-hw1
-Coding Bootcamp first homework, refracting existing code and clean it up.
+# Code Refractor
+
+---
+
+Webpage optimized for accessability, refracted using VS Code.
+
+## Table of Contents
+
+---
+
+* General Info
+
+* Technologies
+
+* Launch
+
+* Sources
+
+
